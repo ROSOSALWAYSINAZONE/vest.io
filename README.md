@@ -1,1 +1,1 @@
-# vest.github.io
+# vest.io
